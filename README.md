@@ -13,6 +13,6 @@ To summarize the four notebooks -
 
 4. The two data sets we have now have a one to many relationship, i.e. for every DH number in the catalog file we have several rows of assay information. We explore techniques in this notebook on how to merge data with such relationships and present them effectively.
 
-This is our final product.
+This is the final output.
 
 ![xyz](Notebooks/Mean_Au.png)
